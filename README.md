@@ -1,4 +1,11 @@
-## Hello world! I am Luan Ipê!
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
+
+Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning programming through small projects!
+
+<br>
+
  <div>
   <a href="https://github.com/Luanipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanipe&layout=compact&langs_count=7&theme=dracula"/>
