@@ -8,14 +8,12 @@ Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning
   
 <br>
 
- <div>
-  <a href="https://github.com/Luanipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanipe&layout=compact&langs_count=7&theme=dracula"/>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+</p>
   
   ##
  
