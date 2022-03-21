@@ -2,8 +2,10 @@
   <b>Luan Ipê</b>
 </h1>
 
+<div align="center">
 Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning programming through small projects!
-
+</div>
+  
 <br>
 
  <div>
