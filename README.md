@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Luan Ipê</b>
 </h1>
 
 Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning programming through small projects!
