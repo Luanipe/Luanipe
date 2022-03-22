@@ -33,6 +33,17 @@ class LuanIpe():
 if __name__ == '__main__':
     me = LuanIpe()
 ```
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/Luanipe/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Luanipe&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luanipe&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<br>
  
 <div align="center"> 
 
