@@ -25,7 +25,7 @@ class LuanIpe():
     self.name = "Luan Ipe"
     self.username = "Luanipe"
     self.location = "Manaus, Brazil"
-    self.github = "github.com/Luanipe"
+    self.linkedin = "linkedin.com/in/luanipe/"
   
   def __str__(self):
     return self.name
