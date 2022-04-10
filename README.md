@@ -22,10 +22,10 @@ Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning
 class LuanIpe():
     
   def __init__(self):
-    self.name = "Luan Ipe";
-    self.username = "Luanipe";
-    self.location = "Manaus, Brazil";
-    self.linkedin = "https://linkedin.com/in/luanipe/";
+    self.name = "Luan Ipe"
+    self.username = "Luanipe"
+    self.location = "Manaus, Brazil"
+    self.github = "github.com/Luanipe"
   
   def __str__(self):
     return self.name
