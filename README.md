@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning programming through small projects!
+Hello! I'm Luan Ipê, a student and Full Stack Intern from Manaus, Brazil.
 </div>
   
 <br>
