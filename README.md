@@ -10,11 +10,15 @@ Hello! I'm Luan Ipê, a student currently living in Manaus, Brazil. I'm learning
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-1A1B27?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/php-1A1B27.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/react-1A1B27.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-1A1B27?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-1A1B27?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-1A1B27?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
 </p>
   
