@@ -25,14 +25,14 @@ Hello! I'm Luan Ipê, a student and Full Stack Intern from Manaus, Brazil.
 ```python
 class LuanIpe():
     
-  def __init__(self):
-    self.name = "Luan Ipe"
-    self.username = "Luanipe"
-    self.location = "Manaus, Brazil"
-    self.linkedin = "linkedin.com/in/luanipe/"
+    def __init__(self):
+        self.name = "Luan Ipe"
+        self.username = "Luanipe"
+        self.location = "Manaus, Brazil"
+        self.linkedin = "linkedin.com/in/luanipe/"
   
-  def __str__(self):
-    return self.name
+    def __str__(self):
+        return self.name
 
 if __name__ == '__main__':
     me = LuanIpe()
