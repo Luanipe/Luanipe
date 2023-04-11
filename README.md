@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-Hello! I'm Luan Ipê, a student and Full Stack Intern from Manaus, Brazil.
+Hello! I'm Luan Ipê, a 21 years old IT student and Full Stack Developer from Manaus, Brazil.
 </div>
   
 <br>
