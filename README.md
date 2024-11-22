@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-Hello! I'm Luan Ipê, a 22 years old IT student and Software Engineer at Samsung - Sidia.
+Software developer with 2 years of experience in process automation and requirements management, working at Samsung with Next.js, TailwindCSS, Django, Flask, and MongoDB. Experienced in web development using Python, PHP, React.js, and Node.js.
 </div>
   
 <br>
@@ -12,13 +12,15 @@ Hello! I'm Luan Ipê, a 22 years old IT student and Software Engineer at Samsung
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-1A1B27?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/php-1A1B27.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-1A1B27?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-1A1B27.svg?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-1A1B27?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-1A1B27?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-1A1B27?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/django-1A1B27?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-1A1B27?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 </p>
   
@@ -44,7 +46,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://github.com/Luanipe/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Luanipe&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luanipe&theme=tokyonight&hide_border=true" />
+  <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luanipe&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <br>
