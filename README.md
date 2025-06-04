@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-Software developer with 2 years of experience in process automation and requirements management, working at Samsung with Next.js, TailwindCSS, Django, Flask, and MongoDB. Experienced in web development using Python, PHP, React.js, and Node.js.
+Software developer with 3 years of experience in process automation and requirements management, working at Samsung with Next.js, TailwindCSS, Django, Flask, MongoDB and PostgreSQL.
 </div>
   
 <br>
